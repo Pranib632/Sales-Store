@@ -1,0 +1,5 @@
+TOP 5 MOST SELLING PRODUCTS BY QUANTITY
+product are most frequently canceled
+time of the day has highest number pr purchases
+prodcut categories the hight revenue
+Return/Cancellation rate per product category
